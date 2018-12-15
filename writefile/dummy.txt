@@ -2,4 +2,4 @@ Banana
 apple
 potato
 octopus
-jelly fish
+jelly
