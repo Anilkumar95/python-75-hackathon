@@ -1,3 +1,4 @@
-line = open(“dummy.txt”, “r”)
-#Reading only specific lines from a file
-print line.readline(3):
+
+
+open = open("dummy.txt", "r")
+print(open.readline(3))
